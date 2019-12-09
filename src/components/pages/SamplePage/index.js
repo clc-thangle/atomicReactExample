@@ -1,7 +1,7 @@
 import React from 'react'
 
 import {
-  PageTemplate, Header, Footer, Paragraph, Heading,
+  PageTemplate, Header, Footer, Paragraph, Heading,Input,
 } from 'components'
 
 const SamplePage = () => {

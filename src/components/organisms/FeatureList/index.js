@@ -58,6 +58,12 @@ const FeatureList = ({ ...props }) => (
         title="React Router"
         code="<Route path='/sample-page' />"
       >
+        <StyledFeature
+        icon="react-router"
+        link="https://github.com/ReactTraining/react-router"
+        title="React Router"
+        code="<Route path='/login-page' />"
+      ></StyledFeature>
         The most popular declarative routing library for React and React Native.
       </StyledFeature>
       <StyledFeature
