@@ -17,15 +17,15 @@ const Credits = styled(Paragraph)`
 
 const Footer = (props) => {
   return (
-    <Wrapper {...props}>
+    <Wrapper {...props}>    
       <Credits>
         Made with
         {' '}
         <Icon icon="heart" />
         {' '}
-by
+        by
         {' '}
-        <Link href="https://github.com/diegohaz">Haz</Link>
+        <Link href="https://github.com/clc-thangle">Nho</Link>
       </Credits>
     </Wrapper>
   )
